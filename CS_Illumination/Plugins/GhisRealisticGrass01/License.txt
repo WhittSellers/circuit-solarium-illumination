@@ -1,0 +1,20 @@
+Copyright © January 3rd 2024, Ghislain GIRARDOT
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this Unreal Engine Project and/or Unreal Engine Plugin and associated documentation files (the “Software”), the rights to use & modify the Software for personal use, educational use, and commercial use under the following conditions:
+
+1. You may not redistribute nor sell the Software, unless compiled & packaged into an executable binary file.
+
+2. You may commercially use the Software if and only if your game or product is independently produced and published and the annual revenue of your independent company or studio releasing your said game or product, is less or equal to five hundred thousand US dollars at the time your game or product is shipped and made publicly available.
+
+3. Credits must be freely visible in your game or application by the end-user and the name ‘Ghislain GIRARDOT’ must appear in the credits under one of the following role:  'Independent Contractor', 'Additional Artist', 'Additional Technical Artist', 'Additional Environment Artist', 'Additional Developer’.
+
+4. In the Software must remain a mention of ‘Ghislain GIRARDOT’ as the original author of the Software, if originally mentioned as such: Unreal Engine assets (materials, blueprints, code…) may contain ‘Ghislain GIRARDOT’ in comments, tool tips or any other places where text can be written and you may not remove it..
+
+5. The Software may have been the subject of a freely available video, or freely available multiple videos, in the form of a breakdown(s), demonstration(s) or tutorial(s), or all of the above, by the author ‘Ghislain GIRARDOT’. You may then freely and without any condition replicate what was explained and demonstrated in those videos. Only if you choose to download & use projects provided through Patreon by the author ‘Ghislain GIRARDOT’ may this license apply.
+
+6. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+The Software is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders Ghislain GIRARDOT be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the Software.
+Except as contained in this notice, the name of Ghislain GIRARDOT shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization from Ghislain GIRARDOT.
+
+All of the above does not apply to any content or code already licensed by @Epic Games that may be bundled with the Software, which shall still be strictly licensed by @Epic Games under their own terms.
