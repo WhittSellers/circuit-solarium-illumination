@@ -72,3 +72,5 @@ CS_Illumination/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 CS_Illumination/DerivedDataCache/*
+
+TouchDesigner/Backup/*
