@@ -5,7 +5,8 @@ Project for Circuit Solarium's interactive stage installation for Illumination N
 
 System Architecture figure 1 is brought forward from the CS: Songs From The Source "Fire" repo, but will be modified to show how software/tasks/signals are split between multiple computers instead of running on one. Multi-gpu on one machine is still being considered as well.
 
-![Figure 1](/.eraser/k5siHvgRpmN836RMQbUQ___tTtaXijJXwZgula4by2oOh994aM2___---figure---dcft7Kk1ohjFyfiWTmYQ6---figure---_7b4C2V-_GObkPn3lqmtCg.png "Figure 1")
+![Figure 1](/.eraser/k5siHvgRpmN836RMQbUQ___tTtaXijJXwZgula4by2oOh994aM2___---figure---tSHYgzhVb9jU4bao9OZbe---figure---_7b4C2V-_GObkPn3lqmtCg.png "Figure 1")
+
 
 
 
