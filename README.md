@@ -3,9 +3,9 @@
 # circuit-solarium-illumination
 Project for Circuit Solarium's interactive stage installation for Illumination NYC 2024
 
-System Architecture figure 1 is brought forward from the CS: Songs From The Source "Fire" repo, but will be modified to show how software/tasks/signals are split between multiple computers instead of running on one. Multi-gpu on one machine is still being considered as well.
+Below is a diagram of our hardware and software setup for the stage. We used 3 computers networked together in order to distribute computation tasks as best we could before consolidating visual output onto a single machine and finally outputting to the projectors.
 
-![Figure 1](/.eraser/k5siHvgRpmN836RMQbUQ___tTtaXijJXwZgula4by2oOh994aM2___---figure---HJ2d7qQBLDK9rBwqDhFi4---figure---_7b4C2V-_GObkPn3lqmtCg.png "Figure 1")
+![Figure 1](/.eraser/k5siHvgRpmN836RMQbUQ___tTtaXijJXwZgula4by2oOh994aM2___---figure---XnvIdT_FWQMSNmlFMLt4M---figure---_7b4C2V-_GObkPn3lqmtCg.png "Figure 1")
 
 
 
