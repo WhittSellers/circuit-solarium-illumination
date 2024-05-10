@@ -11,7 +11,7 @@ Project for Circuit Solarium's interactive stage installation for Illumination N
 
 Below is a diagram of our hardware and software setup for the stage. We used 3 computers networked together in order to distribute computation tasks as best we could before consolidating visual output onto a single machine and finally outputting to the projectors.
 
-![Figure 1](/.eraser/k5siHvgRpmN836RMQbUQ___tTtaXijJXwZgula4by2oOh994aM2___---figure---SuXlTPCQ4tfTChYCc0-kk---figure---_7b4C2V-_GObkPn3lqmtCg.png "Figure 1")
+![Figure 1](/.eraser/k5siHvgRpmN836RMQbUQ___tTtaXijJXwZgula4by2oOh994aM2___---figure---qesYTFyNxju6yFssN9ONd---figure---_7b4C2V-_GObkPn3lqmtCg.png "Figure 1")
 
 Whitt's Desktop ran his Unreal Engine experience featuring a digital twin of the stage, virtual set pieces, and interactive VFX. Jon's laptop ran his TouchDesigner project using a webcam feed for light painting and mediapipe body tracking effects, with output textures and data shared over the network to the desktop. Whitt's Laptop ran MicrodoseVR as a third visual program to layer with visuals from the other two computers, or to use when no performers were on stage. Visual output from this program were also shared over the network back to Whitt's desktop, which used OBS to manage which visuals were being output to the projectors.
 
