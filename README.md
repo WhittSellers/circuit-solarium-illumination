@@ -19,6 +19,8 @@ Whitt's Desktop ran his Unreal Engine experience featuring a digital twin of the
 
 The TouchDesigner project on Whitt's Desktop analysis data from the VR trackers on his Dragon Staff, and acts as a pass through for osc messages coming from Jon's laptop to reduce the number of active osc servers in Whitt's UE experience. There is the beginnings of a Chataigne project in the repo for communicating with the staff LEDs, but ultimately this wasn't used during the show as we are able to dedicate enough time to building it out.
 
-
+The following assets from Sketchfab were used in the Unreal Engine project.
+"Small Greenhouse" (https://skfb.ly/o6TCo) by Mr. Trevor is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+"Aquatic Room [Metashape + RC]" (https://skfb.ly/6XWHX) by Thomas Flynn is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
 
 <!--- Eraser file: https://app.eraser.io/workspace/k5siHvgRpmN836RMQbUQ --->
